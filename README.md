@@ -3,7 +3,7 @@
 <h3 >
      Bem vindo ao meu perfil! Prazer, Giovane!
 </h3>
-<code> Desenvolvedor FullStack com foco em desenvolvimento Web</code>
+<code> Desenvolvedor FullStack com foco em desenvolvimento backend</code>
 
 </div>
 <br>
